@@ -1,12 +1,21 @@
-# js-kata-starter
+# BugsZero
 
-Starter project for kata (Node, TypeScript, Jest)
+## Requirements
+
+This Kata was [originally](https://github.com/martinsson/BugsZero-Kata) created by [Johan Martinsson](https://twitter.com/johan_alps). Credit fully goes to him.
+
+First Identify a bug or a weakness in the design. Then Explain explain how the design contributed to its introduction. Finally, proceed to refactoring using the [Golden Master](https://code.tutsplus.com/tutorials/refactoring-legacy-code-part-1-the-golden-master--cms-20331) technique.
+
+Should you need help, here are a few clues:
+
+- https://github.com/martinsson/BugsZero-Kata/blob/master/bug-patterns.md
+- https://github.com/martinsson/BugsZero-Kata/blob/master/instructions-intermediate.md
 
 ## Installation
 
 ```text
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
+git clone https://github.com/mathieueveillard/bugs-zero-js.git
+cd bugs-zero-js
 npm install
 ```
 
