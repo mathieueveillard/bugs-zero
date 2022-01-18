@@ -10,17 +10,3 @@ Should you need help, here are a few clues:
 
 - https://github.com/martinsson/BugsZero-Kata/blob/master/bug-patterns.md
 - https://github.com/martinsson/BugsZero-Kata/blob/master/instructions-intermediate.md
-
-## Installation
-
-```text
-git clone https://github.com/mathieueveillard/bugs-zero-js.git
-cd bugs-zero-js
-npm install
-```
-
-## Development
-
-```text
-npm test
-```
